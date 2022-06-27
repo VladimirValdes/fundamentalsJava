@@ -22,7 +22,7 @@ public class InvoiceItem {
 		return this.desc;
 	}
 	
-	public int Qty() {
+	public int getQty() {
 		return this.qty;
 	}
 	
